@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/funcion-rios-2/static/css/main.87ffc4a8.css",
+    "main.js": "/funcion-rios-2/static/js/main.118aefa2.js",
+    "index.html": "/funcion-rios-2/index.html",
+    "main.87ffc4a8.css.map": "/funcion-rios-2/static/css/main.87ffc4a8.css.map",
+    "main.118aefa2.js.map": "/funcion-rios-2/static/js/main.118aefa2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ffc4a8.css",
+    "static/js/main.118aefa2.js"
+  ]
+}
